@@ -29,6 +29,7 @@ final class ProtocolInfo{
 	 * Pull requests changing game and/or protocol version numbers will be closed.
 	 *
 	 * This file is generated automatically, do not edit it manually.
+	 * Nice
 	 */
 
 	/** Actual Minecraft: PE protocol version */
